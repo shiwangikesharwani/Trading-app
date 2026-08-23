@@ -112,3 +112,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/shiwangikesharwani/Trading-app.git
 cd Trading-app
+
+## Walkthrough Video
+A complete walkthrough demonstrating the Trading App features:
+[Loom Walkthrough Video](https://www.loom.com/share/ad24d1474b6a46e88fcda814eab53fe3)
